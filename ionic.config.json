@@ -1,0 +1,8 @@
+{
+  "name": "gugul",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular",
+  "id": "5e24cfe6"
+}

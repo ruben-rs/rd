@@ -1,0 +1,62 @@
+{
+  "project_info": {
+    "project_number": "218374975257",
+    "firebase_url": "https://carasoft-418d6.firebaseio.com",
+    "project_id": "carasoft-418d6",
+    "storage_bucket": "carasoft-418d6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:218374975257:android:1c68045734a300c7",
+        "android_client_info": {
+          "package_name": "com.carasoft.Clientrs"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "218374975257-lrnuimg19glrl8l9590fpv7tsgpeqc85.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.carasoft.Clientrs",
+            "certificate_hash": "93b10e12c2144320a88944beff298ea9b3c758a0"
+          }
+        },
+        {
+          "client_id": "218374975257-mf9b2e7bubbb1iugjgr6a7s387f69fjn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjNK6HvikcWzXjFbHvYBI3zPxWb08pgD0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "218374975257-mf9b2e7bubbb1iugjgr6a7s387f69fjn.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "218374975257-boo2me05bu6398hu1u0lbvcovlqg1gmh.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.carasoft.Clientrs"
+              }
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

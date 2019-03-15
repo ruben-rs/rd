@@ -1,0 +1,225 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/rubensanchezruiz/projects-ionic/Carasoftv2/platforms/android/app/src/main/AndroidManifest.xml:2:1-16:12
+INJECTED from /Users/rubensanchezruiz/projects-ionic/Carasoftv2/platforms/android/app/src/main/AndroidManifest.xml:2:1-16:12
+INJECTED from /Users/rubensanchezruiz/projects-ionic/Carasoftv2/platforms/android/app/src/main/AndroidManifest.xml:2:1-16:12
+INJECTED from /Users/rubensanchezruiz/projects-ionic/Carasoftv2/platforms/android/app/src/main/AndroidManifest.xml:2:1-16:12
+MERGED from [com.google.android.gms:play-services-auth:11.8.0] /Users/rubensanchezruiz/.gradle/caches/transforms-1/files-1.1/play-services-auth-11.8.0.aar/e4cfa2defae3bd682540e595a5d05358/AndroidManifest.xml:17:1-39:12
+MERGED from [com.google.android.gms:play-services-identity:11.8.0] /Users/rubensanchezruiz/.gradle/caches/transforms-1/files-1.1/play-services-identity-11.8.0.aar/46f7e9d4821407300580e7f97f97a2a9/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-auth-api-phone:11.8.0] /Users/rubensanchezruiz/.gradle/caches/transforms-1/files-1.1/play-services-auth-api-phone-11.8.0.aar/9db43adf82db52f0f20d6a2b323c4f02/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-auth-base:11.8.0] /Users/rubensanchezruiz/.gradle/caches/transforms-1/files-1.1/play-services-auth-base-11.8.0.aar/9dcf3b1665a267606071ed5da61c8df7/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-base:11.8.0] /Users/rubensanchezruiz/.gradle/caches/transforms-1/files-1.1/play-services-base-11.8.0.aar/d5e44603a4eeb75cc856e62e0dbfb798/AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-tasks:11.8.0] /Users/rubensanchezruiz/.gradle/caches/transforms-1/files-1.1/play-services-tasks-11.8.0.aar/152a2fdf82e677a5f4b7bf89fa366acc/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:11.8.0] /Users/rubensanchezruiz/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.8.0.aar/cb02a53a5dab592eeb074d7983f07d75/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:25.2.0] /Users/rubensanchezruiz/.gradle/caches/transforms-1/files-1.1/support-v4-25.2.0.aar/dc6b23f52e02ae22b9c97af557e75341/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-fragment:25.2.0] /Users/rubensanchezruiz/.gradle/caches/transforms-1/files-1.1/support-fragment-25.2.0.aar/03e5b07173dfc1af706c7fd5dbcfd5b9/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-media-compat:25.2.0] /Users/rubensanchezruiz/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.2.0.aar/4b14af1422331f899501f72c6f9b3fde/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-core-utils:25.2.0] /Users/rubensanchezruiz/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.2.0.aar/838987649dec15c30d7870e728b3fe4c/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-core-ui:25.2.0] /Users/rubensanchezruiz/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.2.0.aar/58dadc5417f4d34fcf4fc4b912fe666d/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-compat:25.2.0] /Users/rubensanchezruiz/.gradle/caches/transforms-1/files-1.1/support-compat-25.2.0.aar/e3c9549547e00861b8fa7a6369131efe/AndroidManifest.xml:17:1-27:12
+MERGED from [:CordovaLib] /Users/rubensanchezruiz/projects-ionic/Carasoftv2/platforms/android/CordovaLib/build/intermediates/manifests/full/debug/AndroidManifest.xml:20:1-27:12
+MERGED from [com.google.android.gms:play-services-identity-license:11.8.0] /Users/rubensanchezruiz/.gradle/caches/transforms-1/files-1.1/play-services-identity-license-11.8.0.aar/e2ab255ac28cd92210342031313abbb5/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-auth-api-phone-license:11.8.0] /Users/rubensanchezruiz/.gradle/caches/transforms-1/files-1.1/play-services-auth-api-phone-license-11.8.0.aar/7a474a9c88d7093d922a217914dce3af/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-auth-base-license:11.8.0] /Users/rubensanchezruiz/.gradle/caches/transforms-1/files-1.1/play-services-auth-base-license-11.8.0.aar/1fa7580d16ee198c35bcca9493819826/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-base-license:11.8.0] /Users/rubensanchezruiz/.gradle/caches/transforms-1/files-1.1/play-services-base-license-11.8.0.aar/c83c3212e89252f5336cc763bc1477c5/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-basement-license:11.8.0] /Users/rubensanchezruiz/.gradle/caches/transforms-1/files-1.1/play-services-basement-license-11.8.0.aar/4f09179a001baf17ddd935d2e2156a6b/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-tasks-license:11.8.0] /Users/rubensanchezruiz/.gradle/caches/transforms-1/files-1.1/play-services-tasks-license-11.8.0.aar/45486c78d0fb7872d55836a49a46e623/AndroidManifest.xml:2:1-6:12
+INJECTED from /Users/rubensanchezruiz/projects-ionic/Carasoftv2/platforms/android/app/src/main/AndroidManifest.xml:2:1-16:12
+INJECTED from /Users/rubensanchezruiz/projects-ionic/Carasoftv2/platforms/android/app/src/main/AndroidManifest.xml:2:1-16:12
+INJECTED from /Users/rubensanchezruiz/projects-ionic/Carasoftv2/platforms/android/app/src/main/AndroidManifest.xml:2:1-16:12
+	package
+		ADDED from /Users/rubensanchezruiz/projects-ionic/Carasoftv2/platforms/android/app/src/main/AndroidManifest.xml:2:98-129
+		INJECTED from /Users/rubensanchezruiz/projects-ionic/Carasoftv2/platforms/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/rubensanchezruiz/projects-ionic/Carasoftv2/platforms/android/app/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /Users/rubensanchezruiz/projects-ionic/Carasoftv2/platforms/android/app/src/main/AndroidManifest.xml:2:70-97
+		INJECTED from /Users/rubensanchezruiz/projects-ionic/Carasoftv2/platforms/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/rubensanchezruiz/projects-ionic/Carasoftv2/platforms/android/app/src/main/AndroidManifest.xml
+	android:hardwareAccelerated
+		ADDED from /Users/rubensanchezruiz/projects-ionic/Carasoftv2/platforms/android/app/src/main/AndroidManifest.xml:2:11-45
+	xmlns:android
+		ADDED from /Users/rubensanchezruiz/projects-ionic/Carasoftv2/platforms/android/app/src/main/AndroidManifest.xml:2:130-188
+	android:versionCode
+		ADDED from /Users/rubensanchezruiz/projects-ionic/Carasoftv2/platforms/android/app/src/main/AndroidManifest.xml:2:46-69
+		INJECTED from /Users/rubensanchezruiz/projects-ionic/Carasoftv2/platforms/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/rubensanchezruiz/projects-ionic/Carasoftv2/platforms/android/app/src/main/AndroidManifest.xml
+supports-screens
+ADDED from /Users/rubensanchezruiz/projects-ionic/Carasoftv2/platforms/android/app/src/main/AndroidManifest.xml:3:5-191
+	android:largeScreens
+		ADDED from /Users/rubensanchezruiz/projects-ionic/Carasoftv2/platforms/android/app/src/main/AndroidManifest.xml:3:49-76
+	android:smallScreens
+		ADDED from /Users/rubensanchezruiz/projects-ionic/Carasoftv2/platforms/android/app/src/main/AndroidManifest.xml:3:132-159
+	android:normalScreens
+		ADDED from /Users/rubensanchezruiz/projects-ionic/Carasoftv2/platforms/android/app/src/main/AndroidManifest.xml:3:77-105
+	android:xlargeScreens
+		ADDED from /Users/rubensanchezruiz/projects-ionic/Carasoftv2/platforms/android/app/src/main/AndroidManifest.xml:3:160-188
+	android:resizeable
+		ADDED from /Users/rubensanchezruiz/projects-ionic/Carasoftv2/platforms/android/app/src/main/AndroidManifest.xml:3:106-131
+	android:anyDensity
+		ADDED from /Users/rubensanchezruiz/projects-ionic/Carasoftv2/platforms/android/app/src/main/AndroidManifest.xml:3:23-48
+uses-permission#android.permission.INTERNET
+ADDED from /Users/rubensanchezruiz/projects-ionic/Carasoftv2/platforms/android/app/src/main/AndroidManifest.xml:4:5-67
+	android:name
+		ADDED from /Users/rubensanchezruiz/projects-ionic/Carasoftv2/platforms/android/app/src/main/AndroidManifest.xml:4:22-64
+application
+ADDED from /Users/rubensanchezruiz/projects-ionic/Carasoftv2/platforms/android/app/src/main/AndroidManifest.xml:5:5-12:19
+MERGED from [com.google.android.gms:play-services-auth:11.8.0] /Users/rubensanchezruiz/.gradle/caches/transforms-1/files-1.1/play-services-auth-11.8.0.aar/e4cfa2defae3bd682540e595a5d05358/AndroidManifest.xml:22:5-37:19
+MERGED from [com.google.android.gms:play-services-auth:11.8.0] /Users/rubensanchezruiz/.gradle/caches/transforms-1/files-1.1/play-services-auth-11.8.0.aar/e4cfa2defae3bd682540e595a5d05358/AndroidManifest.xml:22:5-37:19
+MERGED from [com.google.android.gms:play-services-identity:11.8.0] /Users/rubensanchezruiz/.gradle/caches/transforms-1/files-1.1/play-services-identity-11.8.0.aar/46f7e9d4821407300580e7f97f97a2a9/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-identity:11.8.0] /Users/rubensanchezruiz/.gradle/caches/transforms-1/files-1.1/play-services-identity-11.8.0.aar/46f7e9d4821407300580e7f97f97a2a9/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-base:11.8.0] /Users/rubensanchezruiz/.gradle/caches/transforms-1/files-1.1/play-services-base-11.8.0.aar/d5e44603a4eeb75cc856e62e0dbfb798/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:11.8.0] /Users/rubensanchezruiz/.gradle/caches/transforms-1/files-1.1/play-services-base-11.8.0.aar/d5e44603a4eeb75cc856e62e0dbfb798/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-tasks:11.8.0] /Users/rubensanchezruiz/.gradle/caches/transforms-1/files-1.1/play-services-tasks-11.8.0.aar/152a2fdf82e677a5f4b7bf89fa366acc/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:11.8.0] /Users/rubensanchezruiz/.gradle/caches/transforms-1/files-1.1/play-services-tasks-11.8.0.aar/152a2fdf82e677a5f4b7bf89fa366acc/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:11.8.0] /Users/rubensanchezruiz/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.8.0.aar/cb02a53a5dab592eeb074d7983f07d75/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:11.8.0] /Users/rubensanchezruiz/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.8.0.aar/cb02a53a5dab592eeb074d7983f07d75/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-v4:25.2.0] /Users/rubensanchezruiz/.gradle/caches/transforms-1/files-1.1/support-v4-25.2.0.aar/dc6b23f52e02ae22b9c97af557e75341/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:25.2.0] /Users/rubensanchezruiz/.gradle/caches/transforms-1/files-1.1/support-v4-25.2.0.aar/dc6b23f52e02ae22b9c97af557e75341/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.2.0] /Users/rubensanchezruiz/.gradle/caches/transforms-1/files-1.1/support-fragment-25.2.0.aar/03e5b07173dfc1af706c7fd5dbcfd5b9/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.2.0] /Users/rubensanchezruiz/.gradle/caches/transforms-1/files-1.1/support-fragment-25.2.0.aar/03e5b07173dfc1af706c7fd5dbcfd5b9/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.2.0] /Users/rubensanchezruiz/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.2.0.aar/4b14af1422331f899501f72c6f9b3fde/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.2.0] /Users/rubensanchezruiz/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.2.0.aar/4b14af1422331f899501f72c6f9b3fde/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.2.0] /Users/rubensanchezruiz/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.2.0.aar/838987649dec15c30d7870e728b3fe4c/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.2.0] /Users/rubensanchezruiz/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.2.0.aar/838987649dec15c30d7870e728b3fe4c/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.2.0] /Users/rubensanchezruiz/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.2.0.aar/58dadc5417f4d34fcf4fc4b912fe666d/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.2.0] /Users/rubensanchezruiz/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.2.0.aar/58dadc5417f4d34fcf4fc4b912fe666d/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.2.0] /Users/rubensanchezruiz/.gradle/caches/transforms-1/files-1.1/support-compat-25.2.0.aar/e3c9549547e00861b8fa7a6369131efe/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.2.0] /Users/rubensanchezruiz/.gradle/caches/transforms-1/files-1.1/support-compat-25.2.0.aar/e3c9549547e00861b8fa7a6369131efe/AndroidManifest.xml:25:5-20
+MERGED from [com.google.android.gms:play-services-identity-license:11.8.0] /Users/rubensanchezruiz/.gradle/caches/transforms-1/files-1.1/play-services-identity-license-11.8.0.aar/e2ab255ac28cd92210342031313abbb5/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-identity-license:11.8.0] /Users/rubensanchezruiz/.gradle/caches/transforms-1/files-1.1/play-services-identity-license-11.8.0.aar/e2ab255ac28cd92210342031313abbb5/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-auth-api-phone-license:11.8.0] /Users/rubensanchezruiz/.gradle/caches/transforms-1/files-1.1/play-services-auth-api-phone-license-11.8.0.aar/7a474a9c88d7093d922a217914dce3af/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-auth-api-phone-license:11.8.0] /Users/rubensanchezruiz/.gradle/caches/transforms-1/files-1.1/play-services-auth-api-phone-license-11.8.0.aar/7a474a9c88d7093d922a217914dce3af/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-auth-base-license:11.8.0] /Users/rubensanchezruiz/.gradle/caches/transforms-1/files-1.1/play-services-auth-base-license-11.8.0.aar/1fa7580d16ee198c35bcca9493819826/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-auth-base-license:11.8.0] /Users/rubensanchezruiz/.gradle/caches/transforms-1/files-1.1/play-services-auth-base-license-11.8.0.aar/1fa7580d16ee198c35bcca9493819826/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-base-license:11.8.0] /Users/rubensanchezruiz/.gradle/caches/transforms-1/files-1.1/play-services-base-license-11.8.0.aar/c83c3212e89252f5336cc763bc1477c5/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-base-license:11.8.0] /Users/rubensanchezruiz/.gradle/caches/transforms-1/files-1.1/play-services-base-license-11.8.0.aar/c83c3212e89252f5336cc763bc1477c5/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement-license:11.8.0] /Users/rubensanchezruiz/.gradle/caches/transforms-1/files-1.1/play-services-basement-license-11.8.0.aar/4f09179a001baf17ddd935d2e2156a6b/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement-license:11.8.0] /Users/rubensanchezruiz/.gradle/caches/transforms-1/files-1.1/play-services-basement-license-11.8.0.aar/4f09179a001baf17ddd935d2e2156a6b/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks-license:11.8.0] /Users/rubensanchezruiz/.gradle/caches/transforms-1/files-1.1/play-services-tasks-license-11.8.0.aar/45486c78d0fb7872d55836a49a46e623/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks-license:11.8.0] /Users/rubensanchezruiz/.gradle/caches/transforms-1/files-1.1/play-services-tasks-license-11.8.0.aar/45486c78d0fb7872d55836a49a46e623/AndroidManifest.xml:5:5-20
+	android:supportsRtl
+		ADDED from /Users/rubensanchezruiz/projects-ionic/Carasoftv2/platforms/android/app/src/main/AndroidManifest.xml:5:114-140
+	android:label
+		ADDED from /Users/rubensanchezruiz/projects-ionic/Carasoftv2/platforms/android/app/src/main/AndroidManifest.xml:5:81-113
+	android:hardwareAccelerated
+		ADDED from /Users/rubensanchezruiz/projects-ionic/Carasoftv2/platforms/android/app/src/main/AndroidManifest.xml:5:18-52
+	android:icon
+		ADDED from /Users/rubensanchezruiz/projects-ionic/Carasoftv2/platforms/android/app/src/main/AndroidManifest.xml:5:53-80
+activity#com.carasoft.Clientrs.MainActivity
+ADDED from /Users/rubensanchezruiz/projects-ionic/Carasoftv2/platforms/android/app/src/main/AndroidManifest.xml:6:9-11:20
+	android:label
+		ADDED from /Users/rubensanchezruiz/projects-ionic/Carasoftv2/platforms/android/app/src/main/AndroidManifest.xml:6:97-134
+	android:launchMode
+		ADDED from /Users/rubensanchezruiz/projects-ionic/Carasoftv2/platforms/android/app/src/main/AndroidManifest.xml:6:135-165
+	android:windowSoftInputMode
+		ADDED from /Users/rubensanchezruiz/projects-ionic/Carasoftv2/platforms/android/app/src/main/AndroidManifest.xml:6:257-299
+	android:configChanges
+		ADDED from /Users/rubensanchezruiz/projects-ionic/Carasoftv2/platforms/android/app/src/main/AndroidManifest.xml:6:19-96
+	android:theme
+		ADDED from /Users/rubensanchezruiz/projects-ionic/Carasoftv2/platforms/android/app/src/main/AndroidManifest.xml:6:194-256
+	android:name
+		ADDED from /Users/rubensanchezruiz/projects-ionic/Carasoftv2/platforms/android/app/src/main/AndroidManifest.xml:6:166-193
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/rubensanchezruiz/projects-ionic/Carasoftv2/platforms/android/app/src/main/AndroidManifest.xml:7:13-10:29
+	android:label
+		ADDED from /Users/rubensanchezruiz/projects-ionic/Carasoftv2/platforms/android/app/src/main/AndroidManifest.xml:7:28-65
+action#android.intent.action.MAIN
+ADDED from /Users/rubensanchezruiz/projects-ionic/Carasoftv2/platforms/android/app/src/main/AndroidManifest.xml:8:17-69
+	android:name
+		ADDED from /Users/rubensanchezruiz/projects-ionic/Carasoftv2/platforms/android/app/src/main/AndroidManifest.xml:8:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/rubensanchezruiz/projects-ionic/Carasoftv2/platforms/android/app/src/main/AndroidManifest.xml:9:17-77
+	android:name
+		ADDED from /Users/rubensanchezruiz/projects-ionic/Carasoftv2/platforms/android/app/src/main/AndroidManifest.xml:9:27-74
+uses-sdk
+ADDED from /Users/rubensanchezruiz/projects-ionic/Carasoftv2/platforms/android/app/src/main/AndroidManifest.xml:13:5-74
+INJECTED from /Users/rubensanchezruiz/projects-ionic/Carasoftv2/platforms/android/app/src/main/AndroidManifest.xml:13:5-74
+MERGED from [com.google.android.gms:play-services-auth:11.8.0] /Users/rubensanchezruiz/.gradle/caches/transforms-1/files-1.1/play-services-auth-11.8.0.aar/e4cfa2defae3bd682540e595a5d05358/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth:11.8.0] /Users/rubensanchezruiz/.gradle/caches/transforms-1/files-1.1/play-services-auth-11.8.0.aar/e4cfa2defae3bd682540e595a5d05358/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-identity:11.8.0] /Users/rubensanchezruiz/.gradle/caches/transforms-1/files-1.1/play-services-identity-11.8.0.aar/46f7e9d4821407300580e7f97f97a2a9/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-identity:11.8.0] /Users/rubensanchezruiz/.gradle/caches/transforms-1/files-1.1/play-services-identity-11.8.0.aar/46f7e9d4821407300580e7f97f97a2a9/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:11.8.0] /Users/rubensanchezruiz/.gradle/caches/transforms-1/files-1.1/play-services-auth-api-phone-11.8.0.aar/9db43adf82db52f0f20d6a2b323c4f02/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:11.8.0] /Users/rubensanchezruiz/.gradle/caches/transforms-1/files-1.1/play-services-auth-api-phone-11.8.0.aar/9db43adf82db52f0f20d6a2b323c4f02/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:11.8.0] /Users/rubensanchezruiz/.gradle/caches/transforms-1/files-1.1/play-services-auth-base-11.8.0.aar/9dcf3b1665a267606071ed5da61c8df7/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:11.8.0] /Users/rubensanchezruiz/.gradle/caches/transforms-1/files-1.1/play-services-auth-base-11.8.0.aar/9dcf3b1665a267606071ed5da61c8df7/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:11.8.0] /Users/rubensanchezruiz/.gradle/caches/transforms-1/files-1.1/play-services-base-11.8.0.aar/d5e44603a4eeb75cc856e62e0dbfb798/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:11.8.0] /Users/rubensanchezruiz/.gradle/caches/transforms-1/files-1.1/play-services-base-11.8.0.aar/d5e44603a4eeb75cc856e62e0dbfb798/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:11.8.0] /Users/rubensanchezruiz/.gradle/caches/transforms-1/files-1.1/play-services-tasks-11.8.0.aar/152a2fdf82e677a5f4b7bf89fa366acc/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:11.8.0] /Users/rubensanchezruiz/.gradle/caches/transforms-1/files-1.1/play-services-tasks-11.8.0.aar/152a2fdf82e677a5f4b7bf89fa366acc/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:11.8.0] /Users/rubensanchezruiz/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.8.0.aar/cb02a53a5dab592eeb074d7983f07d75/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:11.8.0] /Users/rubensanchezruiz/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.8.0.aar/cb02a53a5dab592eeb074d7983f07d75/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:25.2.0] /Users/rubensanchezruiz/.gradle/caches/transforms-1/files-1.1/support-v4-25.2.0.aar/dc6b23f52e02ae22b9c97af557e75341/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:25.2.0] /Users/rubensanchezruiz/.gradle/caches/transforms-1/files-1.1/support-v4-25.2.0.aar/dc6b23f52e02ae22b9c97af557e75341/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.2.0] /Users/rubensanchezruiz/.gradle/caches/transforms-1/files-1.1/support-fragment-25.2.0.aar/03e5b07173dfc1af706c7fd5dbcfd5b9/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:25.2.0] /Users/rubensanchezruiz/.gradle/caches/transforms-1/files-1.1/support-fragment-25.2.0.aar/03e5b07173dfc1af706c7fd5dbcfd5b9/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.2.0] /Users/rubensanchezruiz/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.2.0.aar/4b14af1422331f899501f72c6f9b3fde/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:25.2.0] /Users/rubensanchezruiz/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.2.0.aar/4b14af1422331f899501f72c6f9b3fde/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:25.2.0] /Users/rubensanchezruiz/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.2.0.aar/838987649dec15c30d7870e728b3fe4c/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:25.2.0] /Users/rubensanchezruiz/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.2.0.aar/838987649dec15c30d7870e728b3fe4c/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:25.2.0] /Users/rubensanchezruiz/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.2.0.aar/58dadc5417f4d34fcf4fc4b912fe666d/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:25.2.0] /Users/rubensanchezruiz/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.2.0.aar/58dadc5417f4d34fcf4fc4b912fe666d/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.2.0] /Users/rubensanchezruiz/.gradle/caches/transforms-1/files-1.1/support-compat-25.2.0.aar/e3c9549547e00861b8fa7a6369131efe/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.2.0] /Users/rubensanchezruiz/.gradle/caches/transforms-1/files-1.1/support-compat-25.2.0.aar/e3c9549547e00861b8fa7a6369131efe/AndroidManifest.xml:21:5-23:58
+MERGED from [:CordovaLib] /Users/rubensanchezruiz/projects-ionic/Carasoftv2/platforms/android/CordovaLib/build/intermediates/manifests/full/debug/AndroidManifest.xml:25:5-44
+MERGED from [:CordovaLib] /Users/rubensanchezruiz/projects-ionic/Carasoftv2/platforms/android/CordovaLib/build/intermediates/manifests/full/debug/AndroidManifest.xml:25:5-44
+MERGED from [com.google.android.gms:play-services-identity-license:11.8.0] /Users/rubensanchezruiz/.gradle/caches/transforms-1/files-1.1/play-services-identity-license-11.8.0.aar/e2ab255ac28cd92210342031313abbb5/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-identity-license:11.8.0] /Users/rubensanchezruiz/.gradle/caches/transforms-1/files-1.1/play-services-identity-license-11.8.0.aar/e2ab255ac28cd92210342031313abbb5/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-auth-api-phone-license:11.8.0] /Users/rubensanchezruiz/.gradle/caches/transforms-1/files-1.1/play-services-auth-api-phone-license-11.8.0.aar/7a474a9c88d7093d922a217914dce3af/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-auth-api-phone-license:11.8.0] /Users/rubensanchezruiz/.gradle/caches/transforms-1/files-1.1/play-services-auth-api-phone-license-11.8.0.aar/7a474a9c88d7093d922a217914dce3af/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-auth-base-license:11.8.0] /Users/rubensanchezruiz/.gradle/caches/transforms-1/files-1.1/play-services-auth-base-license-11.8.0.aar/1fa7580d16ee198c35bcca9493819826/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-auth-base-license:11.8.0] /Users/rubensanchezruiz/.gradle/caches/transforms-1/files-1.1/play-services-auth-base-license-11.8.0.aar/1fa7580d16ee198c35bcca9493819826/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-base-license:11.8.0] /Users/rubensanchezruiz/.gradle/caches/transforms-1/files-1.1/play-services-base-license-11.8.0.aar/c83c3212e89252f5336cc763bc1477c5/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-base-license:11.8.0] /Users/rubensanchezruiz/.gradle/caches/transforms-1/files-1.1/play-services-base-license-11.8.0.aar/c83c3212e89252f5336cc763bc1477c5/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement-license:11.8.0] /Users/rubensanchezruiz/.gradle/caches/transforms-1/files-1.1/play-services-basement-license-11.8.0.aar/4f09179a001baf17ddd935d2e2156a6b/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement-license:11.8.0] /Users/rubensanchezruiz/.gradle/caches/transforms-1/files-1.1/play-services-basement-license-11.8.0.aar/4f09179a001baf17ddd935d2e2156a6b/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks-license:11.8.0] /Users/rubensanchezruiz/.gradle/caches/transforms-1/files-1.1/play-services-tasks-license-11.8.0.aar/45486c78d0fb7872d55836a49a46e623/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks-license:11.8.0] /Users/rubensanchezruiz/.gradle/caches/transforms-1/files-1.1/play-services-tasks-license-11.8.0.aar/45486c78d0fb7872d55836a49a46e623/AndroidManifest.xml:4:5-43
+INJECTED from /Users/rubensanchezruiz/projects-ionic/Carasoftv2/platforms/android/app/src/main/AndroidManifest.xml:13:5-74
+	tools:overrideLibrary
+		ADDED from [com.android.support:support-v4:25.2.0] /Users/rubensanchezruiz/.gradle/caches/transforms-1/files-1.1/support-v4-25.2.0.aar/dc6b23f52e02ae22b9c97af557e75341/AndroidManifest.xml:23:9-51
+	android:targetSdkVersion
+		ADDED from /Users/rubensanchezruiz/projects-ionic/Carasoftv2/platforms/android/app/src/main/AndroidManifest.xml:13:42-71
+	android:minSdkVersion
+		ADDED from /Users/rubensanchezruiz/projects-ionic/Carasoftv2/platforms/android/app/src/main/AndroidManifest.xml:13:15-41
+		INJECTED from /Users/rubensanchezruiz/projects-ionic/Carasoftv2/platforms/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/rubensanchezruiz/projects-ionic/Carasoftv2/platforms/android/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.GET_ACCOUNTS
+ADDED from /Users/rubensanchezruiz/projects-ionic/Carasoftv2/platforms/android/app/src/main/AndroidManifest.xml:14:5-71
+	android:name
+		ADDED from /Users/rubensanchezruiz/projects-ionic/Carasoftv2/platforms/android/app/src/main/AndroidManifest.xml:14:22-68
+uses-permission#android.permission.USE_CREDENTIALS
+ADDED from /Users/rubensanchezruiz/projects-ionic/Carasoftv2/platforms/android/app/src/main/AndroidManifest.xml:15:5-74
+	android:name
+		ADDED from /Users/rubensanchezruiz/projects-ionic/Carasoftv2/platforms/android/app/src/main/AndroidManifest.xml:15:22-71
+activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
+ADDED from [com.google.android.gms:play-services-auth:11.8.0] /Users/rubensanchezruiz/.gradle/caches/transforms-1/files-1.1/play-services-auth-11.8.0.aar/e4cfa2defae3bd682540e595a5d05358/AndroidManifest.xml:23:9-27:75
+	android:excludeFromRecents
+		ADDED from [com.google.android.gms:play-services-auth:11.8.0] /Users/rubensanchezruiz/.gradle/caches/transforms-1/files-1.1/play-services-auth-11.8.0.aar/e4cfa2defae3bd682540e595a5d05358/AndroidManifest.xml:25:13-46
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:11.8.0] /Users/rubensanchezruiz/.gradle/caches/transforms-1/files-1.1/play-services-auth-11.8.0.aar/e4cfa2defae3bd682540e595a5d05358/AndroidManifest.xml:26:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-auth:11.8.0] /Users/rubensanchezruiz/.gradle/caches/transforms-1/files-1.1/play-services-auth-11.8.0.aar/e4cfa2defae3bd682540e595a5d05358/AndroidManifest.xml:27:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:11.8.0] /Users/rubensanchezruiz/.gradle/caches/transforms-1/files-1.1/play-services-auth-11.8.0.aar/e4cfa2defae3bd682540e595a5d05358/AndroidManifest.xml:24:13-93
+service#com.google.android.gms.auth.api.signin.RevocationBoundService
+ADDED from [com.google.android.gms:play-services-auth:11.8.0] /Users/rubensanchezruiz/.gradle/caches/transforms-1/files-1.1/play-services-auth-11.8.0.aar/e4cfa2defae3bd682540e595a5d05358/AndroidManifest.xml:33:9-36:110
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:11.8.0] /Users/rubensanchezruiz/.gradle/caches/transforms-1/files-1.1/play-services-auth-11.8.0.aar/e4cfa2defae3bd682540e595a5d05358/AndroidManifest.xml:35:13-36
+	android:permission
+		ADDED from [com.google.android.gms:play-services-auth:11.8.0] /Users/rubensanchezruiz/.gradle/caches/transforms-1/files-1.1/play-services-auth-11.8.0.aar/e4cfa2defae3bd682540e595a5d05358/AndroidManifest.xml:36:13-107
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:11.8.0] /Users/rubensanchezruiz/.gradle/caches/transforms-1/files-1.1/play-services-auth-11.8.0.aar/e4cfa2defae3bd682540e595a5d05358/AndroidManifest.xml:34:13-89
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:11.8.0] /Users/rubensanchezruiz/.gradle/caches/transforms-1/files-1.1/play-services-base-11.8.0.aar/d5e44603a4eeb75cc856e62e0dbfb798/AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:11.8.0] /Users/rubensanchezruiz/.gradle/caches/transforms-1/files-1.1/play-services-base-11.8.0.aar/d5e44603a4eeb75cc856e62e0dbfb798/AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:11.8.0] /Users/rubensanchezruiz/.gradle/caches/transforms-1/files-1.1/play-services-base-11.8.0.aar/d5e44603a4eeb75cc856e62e0dbfb798/AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:11.8.0] /Users/rubensanchezruiz/.gradle/caches/transforms-1/files-1.1/play-services-base-11.8.0.aar/d5e44603a4eeb75cc856e62e0dbfb798/AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:11.8.0] /Users/rubensanchezruiz/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.8.0.aar/cb02a53a5dab592eeb074d7983f07d75/AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:11.8.0] /Users/rubensanchezruiz/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.8.0.aar/cb02a53a5dab592eeb074d7983f07d75/AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:11.8.0] /Users/rubensanchezruiz/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.8.0.aar/cb02a53a5dab592eeb074d7983f07d75/AndroidManifest.xml:24:13-58

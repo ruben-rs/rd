@@ -1,0 +1,4 @@
+#Wed Mar 13 17:02:19 CST 2019
+base.0=/Users/rubensanchezruiz/projects-ionic/gugul/platforms/android/app/build/intermediates/transforms/dex/release/0
+path.0=classes.dex
+renamed.0=classes.dex
