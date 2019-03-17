@@ -12,18 +12,17 @@ import { InicioPage } from '../pages/inicio/inicio';
 import { AngularFireModule } from 'angularfire2';
 import { AngularFireDatabaseModule, AngularFireDatabase } from 'angularfire2/database';
 import { AngularFireAuthModule } from 'angularfire2/auth';
-import firebase from 'firebase';
+import  * as firebase from 'firebase';
 import { UsuarioProvider } from '../providers/usuario/usuario';
 
 export const firebaseConfig = {
-  apiKey: "AIzaSyD8K7lk63hBqnD_ZGhg_Fx9FqGFAg8zsKo",
-  authDomain: "carasoft-418d6.firebaseapp.com",
-  databaseURL: "https://carasoft-418d6.firebaseio.com",
-  projectId: "carasoft-418d6",
-  storageBucket: "carasoft-418d6.appspot.com",
-  messagingSenderId: "218374975257"
+    apiKey: "AIzaSyD8K7lk63hBqnD_ZGhg_Fx9FqGFAg8zsKo",
+    authDomain: "carasoft-418d6.firebaseapp.com",
+    databaseURL: "https://carasoft-418d6.firebaseio.com",
+    projectId: "carasoft-418d6",
+    storageBucket: "carasoft-418d6.appspot.com",
+    messagingSenderId: "218374975257"
 };
-
 firebase.initializeApp(firebaseConfig);
 
 @NgModule({

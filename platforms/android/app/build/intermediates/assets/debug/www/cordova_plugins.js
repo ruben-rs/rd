@@ -47,6 +47,14 @@ module.exports = [
     "clobbers": [
       "window.Keyboard"
     ]
+  },
+  {
+    "id": "cordova-plugin-android-permissions.Permissions",
+    "file": "plugins/cordova-plugin-android-permissions/www/permissions.js",
+    "pluginId": "cordova-plugin-android-permissions",
+    "clobbers": [
+      "cordova.plugins.permissions"
+    ]
   }
 ];
 module.exports.metadata = 
@@ -58,7 +66,8 @@ module.exports.metadata =
   "cordova-plugin-device": "2.0.2",
   "cordova-plugin-splashscreen": "5.0.2",
   "cordova-plugin-ionic-webview": "3.1.2",
-  "cordova-plugin-ionic-keyboard": "2.1.3"
+  "cordova-plugin-ionic-keyboard": "2.1.3",
+  "cordova-plugin-android-permissions": "1.0.0"
 };
 // BOTTOM OF METADATA
 });

@@ -157,45 +157,6 @@
             ]
         },
         {
-            "outputFile": "/Users/rubensanchezruiz/projects-ionic/Carasoft/platforms/android/app/build/intermediates/res/merged/debug/values-sl_values-sl.arsc.flat",
-            "map": [
-                {
-                    "source": "/Users/rubensanchezruiz/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.8.0.aar/cb02a53a5dab592eeb074d7983f07d75/res/values-sl/values.xml",
-                    "from": {
-                        "startLines": "4",
-                        "startColumns": "0",
-                        "startOffsets": "283",
-                        "endColumns": "198",
-                        "endOffsets": "481"
-                    },
-                    "to": {
-                        "startLines": "10",
-                        "startColumns": "4",
-                        "startOffsets": "1265",
-                        "endColumns": "198",
-                        "endOffsets": "1459"
-                    }
-                },
-                {
-                    "source": "/Users/rubensanchezruiz/.gradle/caches/transforms-1/files-1.1/play-services-base-11.8.0.aar/d5e44603a4eeb75cc856e62e0dbfb798/res/values-sl/values.xml",
-                    "from": {
-                        "startLines": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20",
-                        "startColumns": "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0",
-                        "startOffsets": "281,385,582,709,814,1020,1148,1288,1417,1634,1739,1937,2065,2276,2454,2550,2638",
-                        "endColumns": "103,196,126,104,205,127,139,128,216,104,197,127,210,177,95,87,108",
-                        "endOffsets": "384,581,708,813,1019,1147,1287,1416,1633,1738,1936,2064,2275,2453,2549,2637,2746"
-                    },
-                    "to": {
-                        "startLines": "2,3,4,5,6,7,8,9,11,12,13,14,15,16,17,18,19",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "105,213,410,541,650,856,988,1132,1464,1681,1790,1988,2120,2331,2513,2613,2705",
-                        "endColumns": "107,196,130,108,205,131,143,132,216,108,197,131,210,181,99,91,112",
-                        "endOffsets": "208,405,536,645,851,983,1127,1260,1676,1785,1983,2115,2326,2508,2608,2700,2813"
-                    }
-                }
-            ]
-        },
-        {
             "outputFile": "/Users/rubensanchezruiz/projects-ionic/Carasoft/platforms/android/app/build/intermediates/res/merged/debug/values-ka_values-ka.arsc.flat",
             "map": [
                 {
@@ -235,40 +196,40 @@
             ]
         },
         {
-            "outputFile": "/Users/rubensanchezruiz/projects-ionic/Carasoft/platforms/android/app/build/intermediates/res/merged/debug/values-zh-rHK_values-zh-rHK.arsc.flat",
+            "outputFile": "/Users/rubensanchezruiz/projects-ionic/Carasoft/platforms/android/app/build/intermediates/res/merged/debug/values-sl_values-sl.arsc.flat",
             "map": [
                 {
-                    "source": "/Users/rubensanchezruiz/.gradle/caches/transforms-1/files-1.1/play-services-base-11.8.0.aar/d5e44603a4eeb75cc856e62e0dbfb798/res/values-zh-rHK/values.xml",
-                    "from": {
-                        "startLines": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20",
-                        "startColumns": "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0",
-                        "startOffsets": "285,384,544,657,757,923,1037,1165,1283,1452,1551,1711,1824,1990,2124,2205,2288",
-                        "endColumns": "98,159,112,99,165,113,127,117,168,98,159,112,165,133,80,82,96",
-                        "endOffsets": "383,543,656,756,922,1036,1164,1282,1451,1550,1710,1823,1989,2123,2204,2287,2384"
-                    },
-                    "to": {
-                        "startLines": "2,3,4,5,6,7,8,9,11,12,13,14,15,16,17,18,19",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "105,208,368,485,589,755,873,1005,1294,1463,1566,1726,1843,2009,2147,2232,2319",
-                        "endColumns": "102,159,116,103,165,117,131,121,168,102,159,116,165,137,84,86,100",
-                        "endOffsets": "203,363,480,584,750,868,1000,1122,1458,1561,1721,1838,2004,2142,2227,2314,2415"
-                    }
-                },
-                {
-                    "source": "/Users/rubensanchezruiz/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.8.0.aar/cb02a53a5dab592eeb074d7983f07d75/res/values-zh-rHK/values.xml",
+                    "source": "/Users/rubensanchezruiz/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.8.0.aar/cb02a53a5dab592eeb074d7983f07d75/res/values-sl/values.xml",
                     "from": {
                         "startLines": "4",
                         "startColumns": "0",
-                        "startOffsets": "287",
-                        "endColumns": "166",
-                        "endOffsets": "453"
+                        "startOffsets": "283",
+                        "endColumns": "198",
+                        "endOffsets": "481"
                     },
                     "to": {
                         "startLines": "10",
                         "startColumns": "4",
-                        "startOffsets": "1127",
-                        "endColumns": "166",
-                        "endOffsets": "1289"
+                        "startOffsets": "1265",
+                        "endColumns": "198",
+                        "endOffsets": "1459"
+                    }
+                },
+                {
+                    "source": "/Users/rubensanchezruiz/.gradle/caches/transforms-1/files-1.1/play-services-base-11.8.0.aar/d5e44603a4eeb75cc856e62e0dbfb798/res/values-sl/values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20",
+                        "startColumns": "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0",
+                        "startOffsets": "281,385,582,709,814,1020,1148,1288,1417,1634,1739,1937,2065,2276,2454,2550,2638",
+                        "endColumns": "103,196,126,104,205,127,139,128,216,104,197,127,210,177,95,87,108",
+                        "endOffsets": "384,581,708,813,1019,1147,1287,1416,1633,1738,1936,2064,2275,2453,2549,2637,2746"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,11,12,13,14,15,16,17,18,19",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,213,410,541,650,856,988,1132,1464,1681,1790,1988,2120,2331,2513,2613,2705",
+                        "endColumns": "107,196,130,108,205,131,143,132,216,108,197,131,210,181,99,91,112",
+                        "endOffsets": "208,405,536,645,851,983,1127,1260,1676,1785,1983,2115,2326,2508,2608,2700,2813"
                     }
                 }
             ]
@@ -308,6 +269,45 @@
                         "startOffsets": "105,212,396,523,632,842,967,1113,1442,1660,1767,1950,2077,2282,2460,2553,2645",
                         "endColumns": "106,183,126,108,209,124,145,131,217,106,182,126,204,177,92,91,107",
                         "endOffsets": "207,391,518,627,837,962,1108,1240,1655,1762,1945,2072,2277,2455,2548,2640,2748"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/rubensanchezruiz/projects-ionic/Carasoft/platforms/android/app/build/intermediates/res/merged/debug/values-zh-rHK_values-zh-rHK.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/rubensanchezruiz/.gradle/caches/transforms-1/files-1.1/play-services-base-11.8.0.aar/d5e44603a4eeb75cc856e62e0dbfb798/res/values-zh-rHK/values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20",
+                        "startColumns": "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0",
+                        "startOffsets": "285,384,544,657,757,923,1037,1165,1283,1452,1551,1711,1824,1990,2124,2205,2288",
+                        "endColumns": "98,159,112,99,165,113,127,117,168,98,159,112,165,133,80,82,96",
+                        "endOffsets": "383,543,656,756,922,1036,1164,1282,1451,1550,1710,1823,1989,2123,2204,2287,2384"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,11,12,13,14,15,16,17,18,19",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,208,368,485,589,755,873,1005,1294,1463,1566,1726,1843,2009,2147,2232,2319",
+                        "endColumns": "102,159,116,103,165,117,131,121,168,102,159,116,165,137,84,86,100",
+                        "endOffsets": "203,363,480,584,750,868,1000,1122,1458,1561,1721,1838,2004,2142,2227,2314,2415"
+                    }
+                },
+                {
+                    "source": "/Users/rubensanchezruiz/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.8.0.aar/cb02a53a5dab592eeb074d7983f07d75/res/values-zh-rHK/values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "287",
+                        "endColumns": "166",
+                        "endOffsets": "453"
+                    },
+                    "to": {
+                        "startLines": "10",
+                        "startColumns": "4",
+                        "startOffsets": "1127",
+                        "endColumns": "166",
+                        "endOffsets": "1289"
                     }
                 }
             ]
@@ -430,45 +430,6 @@
             ]
         },
         {
-            "outputFile": "/Users/rubensanchezruiz/projects-ionic/gugul/platforms/android/app/build/intermediates/res/merged/debug/values-ru_values-ru.arsc.flat",
-            "map": [
-                {
-                    "source": "/Users/rubensanchezruiz/.gradle/caches/transforms-1/files-1.1/play-services-base-11.8.0.aar/d5e44603a4eeb75cc856e62e0dbfb798/res/values-ru/values.xml",
-                    "from": {
-                        "startLines": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20",
-                        "startColumns": "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0",
-                        "startOffsets": "281,386,584,708,816,1017,1144,1285,1414,1654,1759,1953,2077,2303,2487,2582,2668",
-                        "endColumns": "104,197,123,107,200,126,140,128,239,104,193,123,225,183,94,85,110",
-                        "endOffsets": "385,583,707,815,1016,1143,1284,1413,1653,1758,1952,2076,2302,2486,2581,2667,2778"
-                    },
-                    "to": {
-                        "startLines": "2,3,4,5,6,7,8,9,11,12,13,14,15,16,17,18,19",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "105,214,412,540,652,853,984,1129,1478,1718,1827,2021,2149,2375,2563,2662,2752",
-                        "endColumns": "108,197,127,111,200,130,144,132,239,108,193,127,225,187,98,89,114",
-                        "endOffsets": "209,407,535,647,848,979,1124,1257,1713,1822,2016,2144,2370,2558,2657,2747,2862"
-                    }
-                },
-                {
-                    "source": "/Users/rubensanchezruiz/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.8.0.aar/cb02a53a5dab592eeb074d7983f07d75/res/values-ru/values.xml",
-                    "from": {
-                        "startLines": "4",
-                        "startColumns": "0",
-                        "startOffsets": "283",
-                        "endColumns": "215",
-                        "endOffsets": "498"
-                    },
-                    "to": {
-                        "startLines": "10",
-                        "startColumns": "4",
-                        "startOffsets": "1262",
-                        "endColumns": "215",
-                        "endOffsets": "1473"
-                    }
-                }
-            ]
-        },
-        {
             "outputFile": "/Users/rubensanchezruiz/projects-ionic/gugul/platforms/android/app/build/intermediates/res/merged/debug/values-my_values-my.arsc.flat",
             "map": [
                 {
@@ -503,6 +464,45 @@
                         "startOffsets": "1291",
                         "endColumns": "212",
                         "endOffsets": "1499"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/rubensanchezruiz/projects-ionic/gugul/platforms/android/app/build/intermediates/res/merged/debug/values-ru_values-ru.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/rubensanchezruiz/.gradle/caches/transforms-1/files-1.1/play-services-base-11.8.0.aar/d5e44603a4eeb75cc856e62e0dbfb798/res/values-ru/values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20",
+                        "startColumns": "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0",
+                        "startOffsets": "281,386,584,708,816,1017,1144,1285,1414,1654,1759,1953,2077,2303,2487,2582,2668",
+                        "endColumns": "104,197,123,107,200,126,140,128,239,104,193,123,225,183,94,85,110",
+                        "endOffsets": "385,583,707,815,1016,1143,1284,1413,1653,1758,1952,2076,2302,2486,2581,2667,2778"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,11,12,13,14,15,16,17,18,19",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,214,412,540,652,853,984,1129,1478,1718,1827,2021,2149,2375,2563,2662,2752",
+                        "endColumns": "108,197,127,111,200,130,144,132,239,108,193,127,225,187,98,89,114",
+                        "endOffsets": "209,407,535,647,848,979,1124,1257,1713,1822,2016,2144,2370,2558,2657,2747,2862"
+                    }
+                },
+                {
+                    "source": "/Users/rubensanchezruiz/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.8.0.aar/cb02a53a5dab592eeb074d7983f07d75/res/values-ru/values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "283",
+                        "endColumns": "215",
+                        "endOffsets": "498"
+                    },
+                    "to": {
+                        "startLines": "10",
+                        "startColumns": "4",
+                        "startOffsets": "1262",
+                        "endColumns": "215",
+                        "endOffsets": "1473"
                     }
                 }
             ]
@@ -703,45 +703,6 @@
             ]
         },
         {
-            "outputFile": "/Users/rubensanchezruiz/projects-ionic/appnopalman/platforms/android/app/build/intermediates/res/merged/debug/values-lv_values-lv.arsc.flat",
-            "map": [
-                {
-                    "source": "/Users/rubensanchezruiz/.gradle/caches/transforms-1/files-1.1/play-services-base-11.8.0.aar/d5e44603a4eeb75cc856e62e0dbfb798/res/values-lv/values.xml",
-                    "from": {
-                        "startLines": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20",
-                        "startColumns": "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0",
-                        "startOffsets": "281,386,579,710,816,1017,1146,1289,1420,1654,1761,1961,2094,2322,2503,2593,2687",
-                        "endColumns": "104,192,130,105,200,128,142,130,233,106,199,132,227,180,89,93,113",
-                        "endOffsets": "385,578,709,815,1016,1145,1288,1419,1653,1760,1960,2093,2321,2502,2592,2686,2800"
-                    },
-                    "to": {
-                        "startLines": "2,3,4,5,6,7,8,9,11,12,13,14,15,16,17,18,19",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "105,214,407,542,652,853,986,1133,1493,1727,1838,2038,2175,2403,2588,2682,2780",
-                        "endColumns": "108,192,134,109,200,132,146,134,233,110,199,136,227,184,93,97,117",
-                        "endOffsets": "209,402,537,647,848,981,1128,1263,1722,1833,2033,2170,2398,2583,2677,2775,2893"
-                    }
-                },
-                {
-                    "source": "/Users/rubensanchezruiz/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.8.0.aar/cb02a53a5dab592eeb074d7983f07d75/res/values-lv/values.xml",
-                    "from": {
-                        "startLines": "4",
-                        "startColumns": "0",
-                        "startOffsets": "283",
-                        "endColumns": "224",
-                        "endOffsets": "507"
-                    },
-                    "to": {
-                        "startLines": "10",
-                        "startColumns": "4",
-                        "startOffsets": "1268",
-                        "endColumns": "224",
-                        "endOffsets": "1488"
-                    }
-                }
-            ]
-        },
-        {
             "outputFile": "/Users/rubensanchezruiz/projects-ionic/Carasoftv2/platforms/android/app/build/intermediates/res/merged/debug/values-ko_values-ko.arsc.flat",
             "map": [
                 {
@@ -781,40 +742,40 @@
             ]
         },
         {
-            "outputFile": "/Users/rubensanchezruiz/projects-ionic/Carasoftv2/platforms/android/app/build/intermediates/res/merged/debug/values-lt_values-lt.arsc.flat",
+            "outputFile": "/Users/rubensanchezruiz/projects-ionic/appnopalman/platforms/android/app/build/intermediates/res/merged/debug/values-lv_values-lv.arsc.flat",
             "map": [
                 {
-                    "source": "/Users/rubensanchezruiz/.gradle/caches/transforms-1/files-1.1/play-services-base-11.8.0.aar/d5e44603a4eeb75cc856e62e0dbfb798/res/values-lt/values.xml",
+                    "source": "/Users/rubensanchezruiz/.gradle/caches/transforms-1/files-1.1/play-services-base-11.8.0.aar/d5e44603a4eeb75cc856e62e0dbfb798/res/values-lv/values.xml",
                     "from": {
                         "startLines": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20",
                         "startColumns": "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0",
-                        "startOffsets": "281,386,570,700,805,1017,1145,1290,1421,1646,1753,1949,2081,2293,2469,2563,2655",
-                        "endColumns": "104,183,129,104,211,127,144,130,224,106,195,131,211,175,93,91,114",
-                        "endOffsets": "385,569,699,804,1016,1144,1289,1420,1645,1752,1948,2080,2292,2468,2562,2654,2769"
+                        "startOffsets": "281,386,579,710,816,1017,1146,1289,1420,1654,1761,1961,2094,2322,2503,2593,2687",
+                        "endColumns": "104,192,130,105,200,128,142,130,233,106,199,132,227,180,89,93,113",
+                        "endOffsets": "385,578,709,815,1016,1145,1288,1419,1653,1760,1960,2093,2321,2502,2592,2686,2800"
                     },
                     "to": {
                         "startLines": "2,3,4,5,6,7,8,9,11,12,13,14,15,16,17,18,19",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "105,214,398,532,641,853,985,1134,1487,1712,1823,2019,2155,2367,2547,2645,2741",
-                        "endColumns": "108,183,133,108,211,131,148,134,224,110,195,135,211,179,97,95,118",
-                        "endOffsets": "209,393,527,636,848,980,1129,1264,1707,1818,2014,2150,2362,2542,2640,2736,2855"
+                        "startOffsets": "105,214,407,542,652,853,986,1133,1493,1727,1838,2038,2175,2403,2588,2682,2780",
+                        "endColumns": "108,192,134,109,200,132,146,134,233,110,199,136,227,184,93,97,117",
+                        "endOffsets": "209,402,537,647,848,981,1128,1263,1722,1833,2033,2170,2398,2583,2677,2775,2893"
                     }
                 },
                 {
-                    "source": "/Users/rubensanchezruiz/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.8.0.aar/cb02a53a5dab592eeb074d7983f07d75/res/values-lt/values.xml",
+                    "source": "/Users/rubensanchezruiz/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.8.0.aar/cb02a53a5dab592eeb074d7983f07d75/res/values-lv/values.xml",
                     "from": {
                         "startLines": "4",
                         "startColumns": "0",
                         "startOffsets": "283",
-                        "endColumns": "217",
-                        "endOffsets": "500"
+                        "endColumns": "224",
+                        "endOffsets": "507"
                     },
                     "to": {
                         "startLines": "10",
                         "startColumns": "4",
-                        "startOffsets": "1269",
-                        "endColumns": "217",
-                        "endOffsets": "1482"
+                        "startOffsets": "1268",
+                        "endColumns": "224",
+                        "endOffsets": "1488"
                     }
                 }
             ]
@@ -854,6 +815,45 @@
                         "startOffsets": "1127",
                         "endColumns": "166",
                         "endOffsets": "1289"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/rubensanchezruiz/projects-ionic/Carasoftv2/platforms/android/app/build/intermediates/res/merged/debug/values-lt_values-lt.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/rubensanchezruiz/.gradle/caches/transforms-1/files-1.1/play-services-base-11.8.0.aar/d5e44603a4eeb75cc856e62e0dbfb798/res/values-lt/values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20",
+                        "startColumns": "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0",
+                        "startOffsets": "281,386,570,700,805,1017,1145,1290,1421,1646,1753,1949,2081,2293,2469,2563,2655",
+                        "endColumns": "104,183,129,104,211,127,144,130,224,106,195,131,211,175,93,91,114",
+                        "endOffsets": "385,569,699,804,1016,1144,1289,1420,1645,1752,1948,2080,2292,2468,2562,2654,2769"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,11,12,13,14,15,16,17,18,19",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,214,398,532,641,853,985,1134,1487,1712,1823,2019,2155,2367,2547,2645,2741",
+                        "endColumns": "108,183,133,108,211,131,148,134,224,110,195,135,211,179,97,95,118",
+                        "endOffsets": "209,393,527,636,848,980,1129,1264,1707,1818,2014,2150,2362,2542,2640,2736,2855"
+                    }
+                },
+                {
+                    "source": "/Users/rubensanchezruiz/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.8.0.aar/cb02a53a5dab592eeb074d7983f07d75/res/values-lt/values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "283",
+                        "endColumns": "217",
+                        "endOffsets": "500"
+                    },
+                    "to": {
+                        "startLines": "10",
+                        "startColumns": "4",
+                        "startOffsets": "1269",
+                        "endColumns": "217",
+                        "endOffsets": "1482"
                     }
                 }
             ]
@@ -1015,45 +1015,6 @@
             ]
         },
         {
-            "outputFile": "/Users/rubensanchezruiz/projects-ionic/gugul/platforms/android/app/build/intermediates/res/merged/debug/values-nb_values-nb.arsc.flat",
-            "map": [
-                {
-                    "source": "/Users/rubensanchezruiz/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.8.0.aar/cb02a53a5dab592eeb074d7983f07d75/res/values-nb/values.xml",
-                    "from": {
-                        "startLines": "4",
-                        "startColumns": "0",
-                        "startOffsets": "283",
-                        "endColumns": "188",
-                        "endOffsets": "471"
-                    },
-                    "to": {
-                        "startLines": "10",
-                        "startColumns": "4",
-                        "startOffsets": "1271",
-                        "endColumns": "188",
-                        "endOffsets": "1455"
-                    }
-                },
-                {
-                    "source": "/Users/rubensanchezruiz/.gradle/caches/transforms-1/files-1.1/play-services-base-11.8.0.aar/d5e44603a4eeb75cc856e62e0dbfb798/res/values-nb/values.xml",
-                    "from": {
-                        "startLines": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20",
-                        "startColumns": "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0",
-                        "startOffsets": "281,384,575,699,806,1021,1149,1295,1423,1636,1741,1933,2059,2260,2462,2555,2643",
-                        "endColumns": "102,190,123,106,214,127,145,127,212,104,191,125,200,201,92,87,102",
-                        "endOffsets": "383,574,698,805,1020,1148,1294,1422,1635,1740,1932,2058,2259,2461,2554,2642,2745"
-                    },
-                    "to": {
-                        "startLines": "2,3,4,5,6,7,8,9,11,12,13,14,15,16,17,18,19",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "105,212,403,531,642,857,989,1139,1460,1673,1782,1974,2104,2305,2511,2608,2700",
-                        "endColumns": "106,190,127,110,214,131,149,131,212,108,191,129,200,205,96,91,106",
-                        "endOffsets": "207,398,526,637,852,984,1134,1266,1668,1777,1969,2099,2300,2506,2603,2695,2802"
-                    }
-                }
-            ]
-        },
-        {
             "outputFile": "/Users/rubensanchezruiz/projects-ionic/appnopalman/platforms/android/app/build/intermediates/res/merged/debug/values-te_values-te.arsc.flat",
             "map": [
                 {
@@ -1088,6 +1049,45 @@
                         "startOffsets": "105,217,403,535,652,848,975,1110,1438,1646,1760,1944,2074,2284,2477,2571,2669",
                         "endColumns": "111,185,131,116,195,126,134,128,207,113,183,129,209,192,93,97,110",
                         "endOffsets": "212,398,530,647,843,970,1105,1234,1641,1755,1939,2069,2279,2472,2566,2664,2775"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/rubensanchezruiz/projects-ionic/gugul/platforms/android/app/build/intermediates/res/merged/debug/values-nb_values-nb.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/rubensanchezruiz/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.8.0.aar/cb02a53a5dab592eeb074d7983f07d75/res/values-nb/values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "283",
+                        "endColumns": "188",
+                        "endOffsets": "471"
+                    },
+                    "to": {
+                        "startLines": "10",
+                        "startColumns": "4",
+                        "startOffsets": "1271",
+                        "endColumns": "188",
+                        "endOffsets": "1455"
+                    }
+                },
+                {
+                    "source": "/Users/rubensanchezruiz/.gradle/caches/transforms-1/files-1.1/play-services-base-11.8.0.aar/d5e44603a4eeb75cc856e62e0dbfb798/res/values-nb/values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20",
+                        "startColumns": "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0",
+                        "startOffsets": "281,384,575,699,806,1021,1149,1295,1423,1636,1741,1933,2059,2260,2462,2555,2643",
+                        "endColumns": "102,190,123,106,214,127,145,127,212,104,191,125,200,201,92,87,102",
+                        "endOffsets": "383,574,698,805,1020,1148,1294,1422,1635,1740,1932,2058,2259,2461,2554,2642,2745"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,11,12,13,14,15,16,17,18,19",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,212,403,531,642,857,989,1139,1460,1673,1782,1974,2104,2305,2511,2608,2700",
+                        "endColumns": "106,190,127,110,214,131,149,131,212,108,191,129,200,205,96,91,106",
+                        "endOffsets": "207,398,526,637,852,984,1134,1266,1668,1777,1969,2099,2300,2506,2603,2695,2802"
                     }
                 }
             ]
@@ -1132,45 +1132,6 @@
             ]
         },
         {
-            "outputFile": "/Users/rubensanchezruiz/projects-ionic/appnopalman/platforms/android/app/build/intermediates/res/merged/debug/values-af_values-af.arsc.flat",
-            "map": [
-                {
-                    "source": "/Users/rubensanchezruiz/.gradle/caches/transforms-1/files-1.1/play-services-base-11.8.0.aar/d5e44603a4eeb75cc856e62e0dbfb798/res/values-af/values.xml",
-                    "from": {
-                        "startLines": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20",
-                        "startColumns": "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0",
-                        "startOffsets": "281,386,574,698,806,1015,1135,1282,1409,1634,1740,1928,2053,2251,2431,2523,2612",
-                        "endColumns": "104,187,123,107,208,119,146,126,224,105,187,124,197,179,91,88,103",
-                        "endOffsets": "385,573,697,805,1014,1134,1281,1408,1633,1739,1927,2052,2250,2430,2522,2611,2715"
-                    },
-                    "to": {
-                        "startLines": "2,3,4,5,6,7,8,9,11,12,13,14,15,16,17,18,19",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "105,214,402,530,642,851,975,1126,1459,1684,1794,1982,2111,2309,2493,2589,2682",
-                        "endColumns": "108,187,127,111,208,123,150,130,224,109,187,128,197,183,95,92,107",
-                        "endOffsets": "209,397,525,637,846,970,1121,1252,1679,1789,1977,2106,2304,2488,2584,2677,2785"
-                    }
-                },
-                {
-                    "source": "/Users/rubensanchezruiz/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.8.0.aar/cb02a53a5dab592eeb074d7983f07d75/res/values-af/values.xml",
-                    "from": {
-                        "startLines": "4",
-                        "startColumns": "0",
-                        "startOffsets": "283",
-                        "endColumns": "201",
-                        "endOffsets": "484"
-                    },
-                    "to": {
-                        "startLines": "10",
-                        "startColumns": "4",
-                        "startOffsets": "1257",
-                        "endColumns": "201",
-                        "endOffsets": "1454"
-                    }
-                }
-            ]
-        },
-        {
             "outputFile": "/Users/rubensanchezruiz/projects-ionic/Carasoftv2/platforms/android/app/build/intermediates/res/merged/debug/values-ky_values-ky.arsc.flat",
             "map": [
                 {
@@ -1205,6 +1166,45 @@
                         "startOffsets": "1250",
                         "endColumns": "220",
                         "endOffsets": "1466"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/rubensanchezruiz/projects-ionic/appnopalman/platforms/android/app/build/intermediates/res/merged/debug/values-af_values-af.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/rubensanchezruiz/.gradle/caches/transforms-1/files-1.1/play-services-base-11.8.0.aar/d5e44603a4eeb75cc856e62e0dbfb798/res/values-af/values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20",
+                        "startColumns": "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0",
+                        "startOffsets": "281,386,574,698,806,1015,1135,1282,1409,1634,1740,1928,2053,2251,2431,2523,2612",
+                        "endColumns": "104,187,123,107,208,119,146,126,224,105,187,124,197,179,91,88,103",
+                        "endOffsets": "385,573,697,805,1014,1134,1281,1408,1633,1739,1927,2052,2250,2430,2522,2611,2715"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,11,12,13,14,15,16,17,18,19",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,214,402,530,642,851,975,1126,1459,1684,1794,1982,2111,2309,2493,2589,2682",
+                        "endColumns": "108,187,127,111,208,123,150,130,224,109,187,128,197,183,95,92,107",
+                        "endOffsets": "209,397,525,637,846,970,1121,1252,1679,1789,1977,2106,2304,2488,2584,2677,2785"
+                    }
+                },
+                {
+                    "source": "/Users/rubensanchezruiz/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.8.0.aar/cb02a53a5dab592eeb074d7983f07d75/res/values-af/values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "283",
+                        "endColumns": "201",
+                        "endOffsets": "484"
+                    },
+                    "to": {
+                        "startLines": "10",
+                        "startColumns": "4",
+                        "startOffsets": "1257",
+                        "endColumns": "201",
+                        "endOffsets": "1454"
                     }
                 }
             ]

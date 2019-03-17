@@ -1,7 +1,10 @@
 import { Component } from '@angular/core';
 import { IonicPage, NavController, NavParams } from 'ionic-angular';
 import { GooglePlus } from '@ionic-native/google-plus';
-import firebase from 'firebase';
+
+import { leerDatosArray } from '../../providers/crud/crud';
+import { AngularFireAuth } from 'angularfire2/auth';
+import * as firebase from 'firebase/app';
 import { InicioPage } from '../inicio/inicio';
 
 import { UsuarioProvider, Credenciales } from '../../providers/usuario/usuario';
@@ -25,27 +28,52 @@ export class LoginPage {
   givenName: any;
   userId: any;
   imageUrl: any;
+  items = [];
 
   isLoggedIn:boolean = false;
+  isArray:boolean = false;
+  isExiste:boolean = false;
   userProfile: any = null;
 
+  Usersref = firebase.database().ref('usuarios/');
+  db = firebase.database();
+
   constructor(public navCtrl: NavController, private googlePlus: GooglePlus, public usuarioProv: UsuarioProvider) {
-  	firebase.auth().onAuthStateChanged( user => {
-	    if (user){
-	      this.userProfile = user;
-	    } else { 
-	      this.userProfile = null; 
-	    }
-	});
- 
 
+          this.Usersref.on('value', resp =>{
+            
+            this.items= leerDatosArray(resp);
 
+            if(this.items.length!=0){
+              this.isArray = true;
+
+            }
+          });
+  
  
   }
-  login() {
+  validare(email){
+    this.isExiste = false;
+
+    this.Usersref.on('value', resp =>{
+      this.items= leerDatosArray(resp);
+
+      for (var i = 0; i < this.items.length; i++) {
+        
+        if (this.items[i].email==email) {
+          this.isExiste = true;
+        }
+      }
+      
+    });
+
+    return this.isExiste;
+
+  }
+  registrarse() {
     this.googlePlus.login({
     	'webClientId': '218374975257-mf9b2e7bubbb1iugjgr6a7s387f69fjn.apps.googleusercontent.com',
-    	'online': true
+    	'online': true,
     }).then(res => {
         console.log(res);
         firebase.auth().signInWithCredential(firebase.auth.GoogleAuthProvider.credential(res.idToken)).then(user => {
@@ -58,9 +86,70 @@ export class LoginPage {
         		'google'
 
         	);
-        	
 
-        	this.navCtrl.setRoot(InicioPage);
+          if (this.isArray) {
+
+            if (this.validare(user.email)) {
+              alert('Ya hay un usuario registrado con el mismo correo')
+            }else{
+              console.log(this.Usersref.push().set({
+                nombre: user.displayName,
+                email: user.email
+              }));
+              alert('Usuario registrado')
+            }
+            
+
+          }else{
+            console.log(this.Usersref.push().set({
+              nombre: user.displayName,
+              email: user.email
+            }));
+            alert('Usuario registrado')
+            this.isArray = true;
+            
+          }
+
+        	// this.navCtrl.setRoot(InicioPage);
+        })
+        .catch(error => console.log('Firebase failure:'+ JSON.stringify(error)));
+
+        
+      })
+      .catch(err => alert("Error"+err));
+  }
+  login() {
+    this.googlePlus.login({
+      'webClientId': '218374975257-mf9b2e7bubbb1iugjgr6a7s387f69fjn.apps.googleusercontent.com',
+      'online': true,
+    }).then(res => {
+        console.log(res);
+        firebase.auth().signInWithCredential(firebase.auth.GoogleAuthProvider.credential(res.idToken)).then(user => {
+
+          this.usuarioProv.cargarUsuario(
+            user.displayName,
+            user.email,
+            user.photoURL,
+            user.uid,
+            'google'
+
+          );
+
+          if (this.isArray) {
+
+            if (this.validare(user.email)) {
+              this.navCtrl.setRoot(InicioPage)
+            }else{
+              alert('No hay ningun usuario registrado con el correo '+ user.email +' registreseeee')
+            }
+            
+
+          }else{
+            alert('No hay ningun usuario registrado registrese')
+          }
+          
+
+          // this.navCtrl.setRoot(InicioPage);
         })
         .catch(error => console.log('Firebase failure:'+ JSON.stringify(error)));
 

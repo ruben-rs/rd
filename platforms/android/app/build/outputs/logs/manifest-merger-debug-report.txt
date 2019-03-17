@@ -17,7 +17,7 @@ MERGED from [com.android.support:support-media-compat:25.2.0] /Users/rubensanche
 MERGED from [com.android.support:support-core-utils:25.2.0] /Users/rubensanchezruiz/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.2.0.aar/838987649dec15c30d7870e728b3fe4c/AndroidManifest.xml:17:1-27:12
 MERGED from [com.android.support:support-core-ui:25.2.0] /Users/rubensanchezruiz/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.2.0.aar/58dadc5417f4d34fcf4fc4b912fe666d/AndroidManifest.xml:17:1-27:12
 MERGED from [com.android.support:support-compat:25.2.0] /Users/rubensanchezruiz/.gradle/caches/transforms-1/files-1.1/support-compat-25.2.0.aar/e3c9549547e00861b8fa7a6369131efe/AndroidManifest.xml:17:1-27:12
-MERGED from [:CordovaLib] /Users/rubensanchezruiz/projects-ionic/Carasoftv2/platforms/android/CordovaLib/build/intermediates/manifests/full/debug/AndroidManifest.xml:20:1-27:12
+MERGED from [:CordovaLib] /Users/rubensanchezruiz/projects-ionic/Carasoftv2/platforms/android/CordovaLib/build/intermediates/manifests/full/debug/AndroidManifest.xml:20:1-30:12
 MERGED from [com.google.android.gms:play-services-identity-license:11.8.0] /Users/rubensanchezruiz/.gradle/caches/transforms-1/files-1.1/play-services-identity-license-11.8.0.aar/e2ab255ac28cd92210342031313abbb5/AndroidManifest.xml:2:1-6:12
 MERGED from [com.google.android.gms:play-services-auth-api-phone-license:11.8.0] /Users/rubensanchezruiz/.gradle/caches/transforms-1/files-1.1/play-services-auth-api-phone-license-11.8.0.aar/7a474a9c88d7093d922a217914dce3af/AndroidManifest.xml:2:1-6:12
 MERGED from [com.google.android.gms:play-services-auth-base-license:11.8.0] /Users/rubensanchezruiz/.gradle/caches/transforms-1/files-1.1/play-services-auth-base-license-11.8.0.aar/1fa7580d16ee198c35bcca9493819826/AndroidManifest.xml:2:1-6:12
@@ -59,6 +59,8 @@ ADDED from /Users/rubensanchezruiz/projects-ionic/Carasoftv2/platforms/android/a
 		ADDED from /Users/rubensanchezruiz/projects-ionic/Carasoftv2/platforms/android/app/src/main/AndroidManifest.xml:3:23-48
 uses-permission#android.permission.INTERNET
 ADDED from /Users/rubensanchezruiz/projects-ionic/Carasoftv2/platforms/android/app/src/main/AndroidManifest.xml:4:5-67
+MERGED from [:CordovaLib] /Users/rubensanchezruiz/projects-ionic/Carasoftv2/platforms/android/CordovaLib/build/intermediates/manifests/full/debug/AndroidManifest.xml:27:5-67
+MERGED from [:CordovaLib] /Users/rubensanchezruiz/projects-ionic/Carasoftv2/platforms/android/CordovaLib/build/intermediates/manifests/full/debug/AndroidManifest.xml:27:5-67
 	android:name
 		ADDED from /Users/rubensanchezruiz/projects-ionic/Carasoftv2/platforms/android/app/src/main/AndroidManifest.xml:4:22-64
 application
@@ -223,3 +225,7 @@ ADDED from [com.google.android.gms:play-services-basement:11.8.0] /Users/rubensa
 		ADDED from [com.google.android.gms:play-services-basement:11.8.0] /Users/rubensanchezruiz/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.8.0.aar/cb02a53a5dab592eeb074d7983f07d75/AndroidManifest.xml:25:13-66
 	android:name
 		ADDED from [com.google.android.gms:play-services-basement:11.8.0] /Users/rubensanchezruiz/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.8.0.aar/cb02a53a5dab592eeb074d7983f07d75/AndroidManifest.xml:24:13-58
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [:CordovaLib] /Users/rubensanchezruiz/projects-ionic/Carasoftv2/platforms/android/CordovaLib/build/intermediates/manifests/full/debug/AndroidManifest.xml:28:5-79
+	android:name
+		ADDED from [:CordovaLib] /Users/rubensanchezruiz/projects-ionic/Carasoftv2/platforms/android/CordovaLib/build/intermediates/manifests/full/debug/AndroidManifest.xml:28:22-76

@@ -4,6 +4,8 @@ import { IonicPage, NavController, NavParams } from 'ionic-angular';
 import { UsuarioProvider, Credenciales } from '../../providers/usuario/usuario';
 import { LoginPage } from '../login/login';
 import { GooglePlus } from '@ionic-native/google-plus';
+import { AngularFireList, AngularFireDatabase } from 'angularfire2/database';
+import { Observable } from 'rxjs/Observable';
 
 
 import { AngularFireAuth } from 'angularfire2/auth';
@@ -22,13 +24,16 @@ import { AngularFireAuth } from 'angularfire2/auth';
 export class InicioPage {
 
 	user: Credenciales = {};
+  UsersRef: AngularFireList<any>;
+  Users: Observable<any[]>;
 
-  constructor(public navCtrl: NavController, private afAuth: AngularFireAuth, public navParams: NavParams, public usuarioProv: UsuarioProvider, private googlePlus: GooglePlus) {
+  constructor(public navCtrl: NavController, private afAuth: AngularFireAuth, public navParams: NavParams, public usuarioProv: UsuarioProvider, private googlePlus: GooglePlus, public database: AngularFireDatabase) {
 
   	this.user = this.usuarioProv.usuario;
   	this.afAuth.authState.subscribe(user => {
 
   	});
+
 
   }
   salir(){
